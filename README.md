@@ -6,7 +6,7 @@
 
 ## I'm Abbas 😜
 
-I'm a AI Engineer
+I'm an AI Engineer
 
 I have technical experience and interest in:
 - Deep Learning
