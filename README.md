@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-**BahlolAhmad/BahlolAhmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HaisamAbbas/HaisamAbbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 😎 Hey! Nice to see you.
 
-## I'm Bahlol Ahmad 😜
+## I'm Haisam Abbas 😜
 
-I'm an Data Analyst
+I'm an AI Engineer
 
 I have technical experience and interest in:
 - Deep Learning
