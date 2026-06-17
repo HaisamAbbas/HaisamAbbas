@@ -99,24 +99,44 @@ Currently exploring:
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=HaisamAbbas&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+/>
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaisamAbbas&layout=compact&hide_border=true&langs_count=8"
+/>
+
+</p>
 
 
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaisamAbbas&show_icons=true&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaisamAbbas&layout=compact&theme=transparent"/>
+## 🔥 Contribution Overview
+
+<p align="center">
+
+<img 
+src="https://streak-stats.demolab.com?user=HaisamAbbas&hide_border=true"
+/>
+
+</p>
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=HaisamAbbas&hide_border=true"
+/>
+
 </p>
 
 
 ---
-
-# 📈 Contribution Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HaisamAbbas&theme=transparent)](https://git.io/streak-stats)
-
-
----
-
 # 🤝 Connect
 
 LinkedIn: [HaisamAbbas](https://www.linkedin.com/in/haisam-abbas-24a989202) 
