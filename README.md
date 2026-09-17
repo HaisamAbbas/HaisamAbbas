@@ -1,148 +1,81 @@
+<div align="center">
 # Hi, I'm Haisam Abbas 👋
 
-## AI Engineer | Machine Learning | Generative AI | LLM Systems
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=AI+Engineer+%7C+LLM+Systems;Agentic+AI+%26+RAG+Architectures;Computer+Vision+%26+MLOps)](https://git.io/typing-svg)
 
-I build and experiment with AI systems across **Deep Learning, Computer Vision, Natural Language Processing, and Generative AI**.
+[![Profile Views](https://komarev.com/ghpvc/?username=HaisamAbbas&color=0ea5e9&style=flat-square&label=Profile+Views)](https://github.com/HaisamAbbas)
 
-My current focus is on:
+---
+</div>
 
-- Large Language Models (LLMs)
-- Agentic AI Systems
-- Retrieval-Augmented Generation (RAG)
-- Model Optimization & Deployment
-- Computer Vision Applications
-- MLOps and Production AI
+### 🚀 About Me
+I design, optimize, and deploy end-to-end AI systems spanning **Deep Learning, Computer Vision, NLP, and Generative AI**, converting research into reliable production infrastructure.
 
-I enjoy turning research ideas into practical systems and continuously exploring how modern AI models work internally.
+- 🔭 **Building:** Multi-agent workflows, autonomous RAG tools, and real-time computer vision models.
+- 🌱 **Learning:** Transformer internal mechanics, RL fine-tuning (DPO/PPO), and distributed inference.
+- 🎯 **Focus Area:** Efficient LLM serving, agent orchestration, model quantization, and MLOps.
 
 ---
 
-## 🚀 Current Focus
+### 🛠️ Tech Stack
 
-🔭 Building:
-- Multi-agent AI applications
-- LLM-powered tools
-- AI automation systems
-- Computer vision projects
+**Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-bash&logoColor=white)
 
-🌱 Learning:
-- Transformer architectures
-- Reinforcement Learning for LLMs
-- Distributed AI systems
-- Production ML infrastructure
+**AI Frameworks & Computer Vision**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-📚 Interested in:
-- AI system Engineering
-- Efficient LLM inference
-- AI research engineering
+**Generative AI & Agentic Tooling**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0055FF?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-00A67E?style=flat-square&logo=openai&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white)
 
----
-
-# 🛠️ Technical Stack
-
-### Programming
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
-</p>
-
-
-### AI / ML
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface&logoColor=black">
-</p>
-
-
-### GenAI & Backend
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-black?style=flat">
-<img src="https://img.shields.io/badge/LangGraph-blue?style=flat">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-</p>
-
-
-### Tools
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
-</p>
-
+**Backend & Infrastructure**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-
-**Technologies:**
-Whisper • LLaMA • Ollama • RAG
-
-
----
-
-# 📖 Research Interests
-
-Currently exploring:
-
-- Transformer architectures
-- LLM inference optimization
-- Quantization techniques
-- AI agents
-- Model interpretability
-
-
----
-
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=HaisamAbbas&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaisamAbbas&layout=compact&hide_border=true&langs_count=8"
-/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaisamAbbas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaisamAbbas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
 </p>
-
-
-## 🔥 Contribution Overview
 
 <p align="center">
-
-<img 
-src="https://streak-stats.demolab.com?user=HaisamAbbas&hide_border=true"
-/>
-
+  <img src="https://streak-stats.demolab.com?user=HaisamAbbas&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-
-
-## 📈 Contribution Graph
 
 <p align="center">
-
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=HaisamAbbas&hide_border=true"
-/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HaisamAbbas&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
+### 🏆 GitHub Trophies
 
----
-# 🤝 Connect
-
-LinkedIn: [HaisamAbbas](https://www.linkedin.com/in/haisam-abbas-24a989202) 
-Email: HaisamAbbas@outlook.com
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HaisamAbbas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=8&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 ---
 
-⭐ Building AI systems, learning continuously, and sharing knowledge.
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/haisam-abbas-24a989202">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:HaisamAbbas@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+</p>
